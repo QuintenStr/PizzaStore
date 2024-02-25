@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PizzaStore
+build_property.RootNamespace = PizzaStore
+build_property.ProjectDir = F:\Github\BAD\PizzaStore\PizzaStore\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Github\BAD\PizzaStore\PizzaStore
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Cart/EditToppings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxFZGl0VG9wcGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Cart/_IngredientSelectList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxfSW5ncmVkaWVudFNlbGVjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Cart/_ToppingList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxfVG9wcGluZ0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Ingredient/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Ingredient/CreateSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxDcmVhdGVTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Ingredient/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Ingredient/DeleteSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxEZWxldGVTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Ingredient/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Ingredient/EditSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxFZGl0U3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Ingredient/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Ingredient/_IngredientList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxfSW5ncmVkaWVudExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Order/AddDelivery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQWRkRGVsaXZlcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Order/AddPickup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQWRkUGlja3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Order/DeliveryDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGVsaXZlcnlEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Order/PickupDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcUGlja3VwRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Pizza/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Pizza/CreateSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcQ3JlYXRlU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Pizza/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Pizza/DeleteSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcRGVsZXRlU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Pizza/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Pizza/EditSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcRWRpdFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Pizza/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Pizza/_PizzaList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcX1BpenphTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Staff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/BAD/PizzaStore/PizzaStore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tbonj8k8m0

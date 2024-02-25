@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Pizza";
+    ViewData["Subtitle"] = "Create";
+}
+
+@using PizzaStore.Data
+
+@model PizzaCreateViewModel
+
+<h1>@ViewBag.Title</h1>
+<h2>@ViewBag.Subtitle</h2>
+<hr />
+
+<form asp-controller="Pizza" asp-action="Create" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ImageUrl" class="control-label"></label>
+        <input asp-for="ImageUrl" class="form-control" />
+        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+    <label>Ingredients</label><br />
+    @for (var index = 0; index < @Model.CheckBoxItems.Count(); index++)
+    {
+        <input type="checkbox" asp-for="@Model.CheckBoxItems[index].IsChecked" class="form-check-input" />
+        <label class="form-check-label" asp-for="@Model.CheckBoxItems[index].IsChecked">
+            @Model.CheckBoxItems[index].LabelName
+        </label>
+        <input type="hidden" asp-for="@Model.CheckBoxItems[index].Id" />
+        <input type="hidden" asp-for="@Model.CheckBoxItems[index].LabelName" />
+        <br />
+    }
+    <span asp-validation-for="CheckBoxItems" class="text-danger"></span>
+    </div>
+        
+    <br />
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-lg" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M8 2a.5.5 0 0 1 .5.5v5h5a.5.5 0 0 1 0 1h-5v5a.5.5 0 0 1-1 0v-5h-5a.5.5 0 0 1 0-1h5v-5A.5.5 0 0 1 8 2Z" />
+            </svg>
+            Create
+        </button>
+    </div>
+</form>
+
+<!-- price decimal point fix zoals ik had bij bookstore -->
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial.cshtml")
+    <script>
+        $.validator.methods.number = function (value, element) {
+            return this.optional(element) || /^-?(?:\d+|\d{1,3}(?:\.\d{3})+)(?:,\d+)?$/.test(value);
+        };
+        $.validator.messages.number = "Please enter a valid number.";
+    </script>
+}

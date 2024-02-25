@@ -1,0 +1,35 @@
+﻿@using PizzaStore.Data;
+@model ExtraToppingsSearchViewModel
+
+<div class="d-flex flex-wrap justify-content-around">
+    @foreach (Ingredient ingredient in Model.Ingredients)
+    {
+        if (ingredient.Name != "Base")
+        {
+                    <div class="card m-4" style="width: 24rem;">
+                        <img class="card-img-top img-responsive" src="~/img/ingr/@ingredient.ImageUrl" alt="Book cover picture" style="height: 13.5rem; object-fit: cover;">
+                        <ul class="list-group list-group-flush d-flex" style="flex-grow:1">
+                            <li class="list-group-item flex-grow-1">
+                                <h5 class="card-title">@ingredient.Name</h5>
+                                <h6 class="card-subtitle mb-2 text-muted">Ingredient</h6>
+                                <p class="card-text">@ingredient.Description</p>
+                            </li>
+                            <li class="list-group-item d-flex justify-content-between">
+                                <a class="btn btn-outline-primary" asp-controller="Cart" asp-action="AddTopping" asp-route-ingrid="@ingredient.IngredientId" asp-route-cartlineid="@Model.cartLine.CartLineId" style="flex-grow:1;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus" viewBox="0 0 16 16">
+                                        <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"/>
+                                    </svg>
+                                    Add Extra @ingredient.Name
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+        }
+    }
+    @if (Model.Ingredients.Count() == 0)
+    {
+    <div class="alert alert-danger" role="alert">
+        No ingredients have been found. Please try other search settings or <a class="alert-link" asp-controller="Cart" asp-action="ResetSearchEditToppings" asp-route-id="@Model.cartLine.CartLineId">click here to reset your search parameters</a>.
+    </div>
+    }
+</div>

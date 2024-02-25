@@ -1,0 +1,71 @@
+﻿@using PizzaStore.Data;
+@model PizzaSearchViewModel
+@{
+    ViewData["Title"] = "Pizza's";
+    ViewData["Subtitle"] = "Overview";
+    @using System.Globalization;
+}
+
+<h1>@ViewBag.Title</h1>
+<h2>@ViewBag.Subtitle</h2>
+<hr />
+
+<form asp-controller="Pizza" asp-action="Index" method="get" class="form-inline mb-5">
+    <div class="row">
+        <div class="col">
+            <div class="form-group">
+                <label for="searchTerm">Name: </label>
+                <input id="searchTerm" asp-for="Name" class="form-control ml-1" />
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label for="searchTerm">Minimum price:</label>
+                <input id="searchTerm" asp-for="MinPrice" type="number" class="form-control ml-1" />
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label for="searchTerm">Maximum price:</label>
+                <input id="searchTerm" asp-for="MaxPrice" type="number" class="form-control ml-1" />
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+    <label>Must include ingredients:</label><br />
+        <div class="d-flex flex-row justify-content-between align-items-center flex-wrap">
+        @for (var index = 0; index < @Model.CheckBoxItems.Count(); index++)
+        {
+            <div>
+            <input type="checkbox" asp-for="@Model.CheckBoxItems[index].IsChecked" class="form-check-input" />
+            <label class="form-check-label" asp-for="@Model.CheckBoxItems[index].IsChecked">
+                @Model.CheckBoxItems[index].LabelName
+            </label>
+            <input type="hidden" asp-for="@Model.CheckBoxItems[index].Id" />
+            <input type="hidden" asp-for="@Model.CheckBoxItems[index].LabelName" />
+            </div>
+            <br />
+        }
+        <div class="form-group">
+            <button class="btn btn-primary">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                </svg>
+                Search
+            </button>
+            <a class="btn btn-outline-secondary" asp-controller="Pizza" asp-action="ResetSearch">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-counterclockwise" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M8 3a5 5 0 1 1-4.546 2.914.5.5 0 0 0-.908-.417A6 6 0 1 0 8 2v1z" />
+                    <path d="M8 4.466V.534a.25.25 0 0 0-.41-.192L5.23 2.308a.25.25 0 0 0 0 .384l2.36 1.966A.25.25 0 0 0 8 4.466z" />
+                </svg>
+                Reset
+            </a>
+        </div>
+    </div>
+    </div>
+</form>
+
+<hr />
+
+@await Html.PartialAsync("_PizzaList", Model.pizzas)

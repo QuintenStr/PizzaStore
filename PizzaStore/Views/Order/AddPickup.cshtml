@@ -1,0 +1,73 @@
+﻿@using PizzaStore.Data;
+@using System.Globalization;
+@{
+    ViewData["Title"] = "Order";
+    ViewData["Subtitle"] = "New Pickup";
+}
+
+<h1>@ViewBag.Title</h1>
+<h2>@ViewBag.Subtitle</h2>
+<hr />
+
+@model OrderPickupCreateViewModel
+
+<ul>
+    @{
+        double totalPrice = 0;
+        @foreach (CartLine l in @Model.ShoppingCart.CartLines)
+        {
+            string toppings;
+            {
+                if (l.ExtraToppings.Count() == 0)
+                {
+                    toppings = null;
+                }
+                else
+                {
+                    toppings = "(" + string.Join(", ", l.ExtraToppings.Select(topping => "+ " + topping.Name)) + ")";
+                }
+            }
+            <li>
+                <p>
+                    @l.PizzaSize @l.Pizza.Name @toppings @l.TotalPriceCartLine.ToString("C", CultureInfo.GetCultureInfo("nl-BE"))
+                </p>
+            </li>
+            totalPrice += @l.TotalPriceCartLine;
+        }
+    }
+    Total: @totalPrice.ToString("C", CultureInfo.GetCultureInfo("nl-BE"))
+</ul>
+
+<form asp-controller="Order" asp-action="AddPickup" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="FirstName" class="control-label"></label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName" class="control-label"></label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PickupTime" class="control-label"></label>
+        <input asp-for="PickupTime" class="form-control" />
+        <span asp-validation-for="PickupTime" class="text-danger"></span>
+    </div>
+
+    <br />
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-lg" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M8 2a.5.5 0 0 1 .5.5v5h5a.5.5 0 0 1 0 1h-5v5a.5.5 0 0 1-1 0v-5h-5a.5.5 0 0 1 0-1h5v-5A.5.5 0 0 1 8 2Z" />
+            </svg>
+            Order
+        </button>
+    </div>
+</form>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial.cshtml")
+}

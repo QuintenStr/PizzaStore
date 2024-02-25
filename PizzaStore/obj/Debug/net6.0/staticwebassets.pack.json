@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PizzaStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PizzaStore.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\base.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\base.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\egg.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\egg.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\goatcheese.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\goatcheese.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\ham.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\ham.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\honey.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\honey.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\mozzarella.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\mozzarella.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\mushrooms.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\mushrooms.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\onion.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\onion.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\parmaham.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\parmaham.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\pineapple.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\pineapple.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\salami.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\salami.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\salmon.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\salmon.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\tuna.jpg",
+      "PackagePath": "staticwebassets\\img\\ingr\\tuna.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\ingr\\usecase_1722.png",
+      "PackagePath": "staticwebassets\\img\\ingr\\usecase_1722.png"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\pizza\\alparma.jpg",
+      "PackagePath": "staticwebassets\\img\\pizza\\alparma.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\pizza\\altonno.jpg",
+      "PackagePath": "staticwebassets\\img\\pizza\\altonno.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\pizza\\calzone.jpg",
+      "PackagePath": "staticwebassets\\img\\pizza\\calzone.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\pizza\\diavola.jpg",
+      "PackagePath": "staticwebassets\\img\\pizza\\diavola.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\pizza\\funghi.jpg",
+      "PackagePath": "staticwebassets\\img\\pizza\\funghi.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\pizza\\goaty.jpg",
+      "PackagePath": "staticwebassets\\img\\pizza\\goaty.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\pizza\\hawai.jpg",
+      "PackagePath": "staticwebassets\\img\\pizza\\hawai.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\pizza\\margherita.jpg",
+      "PackagePath": "staticwebassets\\img\\pizza\\margherita.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\pizza\\prosciutto.jpg",
+      "PackagePath": "staticwebassets\\img\\pizza\\prosciutto.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\img\\pizza\\salmony.jpg",
+      "PackagePath": "staticwebassets\\img\\pizza\\salmony.jpg"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Github\\BAD\\PizzaStore\\PizzaStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PizzaStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PizzaStore.props",
+      "PackagePath": "build\\PizzaStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PizzaStore.props",
+      "PackagePath": "buildMultiTargeting\\PizzaStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PizzaStore.props",
+      "PackagePath": "buildTransitive\\PizzaStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
